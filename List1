@@ -1,1 +1,23 @@
-test
+# Prime Video ad metrics & reporting
+smetrics.primevideo.com
+metrics.primevideo.com
+
+# Amazon UNAGI (ad decisioning / telemetry)
+unagi.amazon.com
+unagi-eu.amazon.com
+unagi-na.amazon.com
+
+# Amazon advertising & attribution
+fls-na.amazon.com
+device-metrics-us.amazon.com
+device-metrics.amazon.com
+
+# Amazon Ads ecosystem (safe, no video delivery)
+amazon-adsystem.com
+amazonadvertising.com
+advertising.amazon.com
+adapis.amazon.com
+
+# General Amazon analytics / tracking
+amazon-analytics.com
+amazon-tracking.com
