@@ -1,10 +1,10 @@
- You are using 192.168.0.100 as your DNS.
+# You are using 192.168.0.100 as your DNS.
 
- While this DNS does block most ads using a sinkhole,
- there are some domains that are blacklisted for there
- own reasons. Here is a list of services that are blocked.
+# While this DNS does block most ads using a sinkhole,
+  there are some domains that are blacklisted for there
+  own reasons. Here is a list of services that are blocked.
 
-#List 1, Blocked Services.
+# List 1, Blocked Services.
 
 1 - ome.tv
 2 - temu.com
