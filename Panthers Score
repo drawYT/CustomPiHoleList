@@ -1,6 +1,6 @@
-Hello.
-Your using 192.168.0.100 as your DNS.
-While this DNS does block most ads using a sinkhole,
+ You are using 192.168.0.100 as your DNS.
+
+ While this DNS does block most ads using a sinkhole,
  there are some domains that are blacklisted for there
  own reasons. Here is a list of services that are blocked.
 
